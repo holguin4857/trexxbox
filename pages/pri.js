@@ -46,6 +46,26 @@ export default function Pri() {
             We require this information to understand your needs and provide you
             with a better service, and in particular for the following reasons:
           </p>
+          <li>Internal record keeping</li>
+          <li>
+            We may use the information to improve our products and services.
+          </li>
+          <li>
+            We may periodically send promotional emails about new products
+          </li>
+          <li>
+            From time to time, we may also use your information to contact you
+            for market research purposes
+          </li>
+          <p></p>
+          <h2>Security</h2>
+          <p></p>
+          <p>
+            We are committed to ensuring that your information is secure. In
+            order to prevent unauthorised access or disclosure, we have put in
+            place suitable physical, electronic and managerial procedures to
+            safeguard and secure the information we collect online.
+          </p>
         </div>
       </section>
     </>

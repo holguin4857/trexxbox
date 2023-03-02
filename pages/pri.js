@@ -66,6 +66,23 @@ export default function Pri() {
             place suitable physical, electronic and managerial procedures to
             safeguard and secure the information we collect online.
           </p>
+          <h2>How we use cookies</h2>
+          <p></p>
+          
+          <p>
+            We use traffic log cookies to identify which pages are being used.
+            This helps us analyse data about web page traffic and improve our
+            website in order to tailor it to customer needs. We only use this
+            information for statistical analysis purposes and then the data is
+            removed from the system.
+          </p>
+         
+          <p>
+            You can choose to accept or decline cookies. Most web browsers
+            automatically accept cookies, but you can usually modify your
+            browser setting to decline cookies if you prefer. This may prevent
+            you from taking full advantage of the website.
+          </p>
         </div>
       </section>
     </>

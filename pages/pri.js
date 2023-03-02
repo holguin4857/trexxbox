@@ -12,7 +12,7 @@ export default function Privacy() {
       </Head>
 
       <section className="container">
-        <div className="content">
+        <div>
           <h1>Privacy policy</h1>
           <p></p>
 

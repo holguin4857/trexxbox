@@ -40,8 +40,8 @@ export default function Terms() {
             for the Services.
           </p>
           <p>
-            1.4 - Customer means the person who accepts Trexco quotation for
-            the Services.
+            1.4 - Customer means the person who accepts Trexco quotation for the
+            Services.
           </p>
           <p>
             1.5 - Delivery Address means the address or port or airport notified
@@ -59,6 +59,47 @@ export default function Terms() {
             and other industrial disputes whether or not relating to Trexco
             workforce and restraints or delays affecting carriers.
           </p>
+          <p>
+            1.7 - Prohibited Item means any single item which value exceeds
+            2500.00 GBP, perishable goods, food stuffs of any description,
+            liquids of any description, tobacco or similar products, hazardous
+            materials or substances included but not limited to paint, matches,
+            aerosol cans, gas canisters or other flammable materials, firearms
+            and ammunition, plants or soil samples of any kind, live or stuffed
+            animals, non-prescription drugs or medicines, corrosive materials or
+            substances and explosives or pornography of any description, or any
+            other article where importation of the article is restricted or
+            prohibited at the destination by law or regulation.
+          </p>
+          <p>
+            1.8 - Services means the collection of the Boxes from the Collection
+            Address and the transportation of Boxes from the Collection Address
+            to the Delivery Address.
+          </p>
+          <p>1.9 - Terms means these Terms and Conditions</p>
+          <p>
+            1.10 - Trexco means Trexco International Limited, its agents,
+            subcontractors and employees.
+          </p>
+          <p>
+            1.11 - Website means www.trexco.net, www.trexxbox.com, www.trexx.co
+          </p>
+          <ol>
+            <h2> Application</h2>
+          </ol>
+          <p>
+            2.1 - These Terms shall govern and be incorporated in every Contract
+            made by or on behalf of Trexco and the Customer. They shall apply in
+            place of and prevail over any terms and conditions whether or not in
+            conflict or inconsistent with these Terms contained or referred to
+            in any documentation submitted by the Customer or in correspondence
+            or elsewhere or implied by trade, custom, practise or course of
+            dealing.
+          </p>
+          <p>
+            2.2 - These terms do not affect your statutory rights as a consumer.
+          </p>
+          <ol></ol>
 
           <p>
             You can choose to accept or decline cookies. Most web browsers

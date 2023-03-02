@@ -1,11 +1,8 @@
 import Head from "next/head";
-import { Inter } from "next/font/google";
 import Link from "next/link";
 import Image from "next/image";
 
-const inter = Inter({ subsets: ["latin"] });
-
-export default function Home() {
+export default function Book() {
   return (
     <>
       <Head>
@@ -17,11 +14,11 @@ export default function Home() {
 
       <section className="container">
         <div className="content">
-          <h1>the easy way to ship worldwide</h1>
+          <h1>Book now</h1>
           <p>
-            trexco is a practical and affordable shipping solution, located in
-            the UK and focused on sea and air transport to the US, Canada,
-            Mexico and South America.
+            trexco is a practical and affordable shipping solution to all over
+            the world, sending from the UK and Spain to the US, Canada, Mexico,
+            Europe, Asia, Africa and South America.
           </p>
           <button className="button">
             <Link href="https://trexco.involve.me/trexco-personalized-quote">
@@ -31,11 +28,20 @@ export default function Home() {
         </div>
         <div className="image">
           <Image
-            src="/images/container1.png"
+            src="/images/box-and-cat-round.png"
             alt="loading"
             width={600}
-            height={466.5}
+            height={337.5}
           />
+        </div>
+      </section>
+
+      <section className="container-2">
+        <div className="content-2">
+          <p>
+            Trexco have simplified shipping by using an easy, convenient way to
+            pack, store, and move your cargo - all at the same time!
+          </p>
         </div>
       </section>
 
@@ -78,38 +84,6 @@ export default function Home() {
             Choose the collection date a driver will load your Trexx-Box with a
             pallet truck and it will get shipped to your destination.
           </p>
-        </div>
-      </section>
-
-      <section className="container-2">
-        <div className="content-2">
-          <h2>
-            Trexco have simplified shipping by using an easy, convenient way to
-            pack, store, and move your cargo - all at the same time!
-          </h2>
-        </div>
-      </section>
-
-      <section className="container">
-        <div className="content">
-          <h1>how it works</h1>
-          <p>
-            We offer do-it-yourself shipping options, for those who might be
-            looking for an easy, affordable, efficient, way to ship.
-          </p>
-          <button className="button">
-            <Link href="https://trexco.involve.me/trexco-personalized-quote">
-              Book now
-            </Link>
-          </button>
-        </div>
-        <div className="image">
-          <Image
-            src="/images/man-compu-cat-round.png"
-            alt="loading"
-            width={600}
-            height={337.5}
-          />
         </div>
       </section>
 

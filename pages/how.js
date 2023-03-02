@@ -1,11 +1,8 @@
 import Head from "next/head";
-import { Inter } from "next/font/google";
 import Link from "next/link";
 import Image from "next/image";
 
-const inter = Inter({ subsets: ["latin"] });
-
-export default function Home() {
+export default function How() {
   return (
     <>
       <Head>
@@ -14,30 +11,6 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <section className="container">
-        <div className="content">
-          <h1>the easy way to ship worldwide</h1>
-          <p>
-            trexco is a practical and affordable shipping solution, located in
-            the UK and focused on sea and air transport to the US, Canada,
-            Mexico and South America.
-          </p>
-          <button className="button">
-            <Link href="https://trexco.involve.me/trexco-personalized-quote">
-              Book now
-            </Link>
-          </button>
-        </div>
-        <div className="image">
-          <Image
-            src="/images/container1.png"
-            alt="loading"
-            width={600}
-            height={466.5}
-          />
-        </div>
-      </section>
 
       <section className="column-3">
         <div className="column">
@@ -81,21 +54,11 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="container-2">
-        <div className="content-2">
-          <h2>
-            Trexco have simplified shipping by using an easy, convenient way to
-            pack, store, and move your cargo - all at the same time!
-          </h2>
-        </div>
-      </section>
-
       <section className="container">
         <div className="content">
-          <h1>how it works</h1>
           <p>
-            We offer do-it-yourself shipping options, for those who might be
-            looking for an easy, affordable, efficient, way to ship.
+            Trexco offers do-it-yourself shipping options, for those who might
+            be looking for an easy, affordable, efficient, way to ship.
           </p>
           <button className="button">
             <Link href="https://trexco.involve.me/trexco-personalized-quote">
@@ -105,22 +68,11 @@ export default function Home() {
         </div>
         <div className="image">
           <Image
-            src="/images/man-compu-cat-round.png"
+            src="/images/container1.png"
             alt="loading"
             width={600}
-            height={337.5}
+            height={466.5}
           />
-        </div>
-      </section>
-
-      <section className="container">
-        <div className="content">
-          <h1>shipping with confidence</h1>
-          <p>
-            We have secured competitive shipping rates to many destinations
-            around the world, from air, road or sea shipment. We have over 17
-            years of experience as freight forwarders.
-          </p>
         </div>
       </section>
     </>

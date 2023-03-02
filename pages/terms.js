@@ -19,7 +19,7 @@ export default function Terms() {
           <p>
             Please note that Trexco offers no guarantee to the charges
             applicable at the destination. Destination charges are outside of
-            Trexco's control and any figures quoted by Trexco are an
+            the control of Trexco and any figures quoted by Trexco are an
             indication only.
           </p>
           <p>

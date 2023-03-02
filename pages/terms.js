@@ -22,63 +22,44 @@ export default function Terms() {
             the control of Trexco and any figures quoted by Trexco are an
             indication only.
           </p>
+          <ol>
+            <h2> Definitions</h2>
+          </ol>
           <p>
-            Trexco is committed to ensuring that your privacy is protected.
-            Should we ask you to provide certain information by which you can be
-            identified when using this website, then you can be assured that it
-            will only be used in accordance with this privacy statement.
+            1.1 - Box means a packed box, pallet, pallet box, shipping container
+            or any other item which Trexco agrees in writing may be transported
+            by Trexco in accordance with these Terms.
           </p>
           <p>
-            Trexco may change this policy from time to time by updating this
-            page. You should check this page from time to time to ensure that
-            you are happy with any changes. This policy is effective from
-            24/11/2017
+            1.2 - Collection Address means the address notified by the Customer
+            to Trexco and which Trexco in its entire discretion agrees is where
+            the Boxes are to be sent, positioned or collected from.
           </p>
-          <h2>What we collect</h2>
-          <p>We may collect the following information:</p>
-          <ul>
-            <li>full name</li>
-            <li>contact information including email address</li>
-            <li>demographic information such as postcode and address</li>
-          </ul>
-          <p></p>
-          <h2>What we do with the information we gather</h2>
-          <p></p>
           <p>
-            We require this information to understand your needs and provide you
-            with a better service, and in particular for the following reasons:
+            1.3 - Contract means the contract between the Customer and Trexco
+            for the Services.
           </p>
-          <li>Internal record keeping</li>
-          <li>
-            We may use the information to improve our products and services.
-          </li>
-          <li>
-            We may periodically send promotional emails about new products
-          </li>
-          <li>
-            From time to time, we may also use your information to contact you
-            for market research purposes
-          </li>
-          <p></p>
-          <h2>Security</h2>
-          <p></p>
           <p>
-            We are committed to ensuring that your information is secure. In
-            order to prevent unauthorised access or disclosure, we have put in
-            place suitable physical, electronic and managerial procedures to
-            safeguard and secure the information we collect online.
+            1.4 - Customer means the person who accepts Trexco quotation for
+            the Services.
           </p>
-          <h2>How we use cookies</h2>
-          <p></p>
-          
           <p>
-            We use traffic log cookies to identify which pages are being used.
-            This helps us analyse data about web page traffic and improve our
-            website in order to tailor it to customer needs. We only use this
-            information for statistical analysis purposes and then the data is
-            removed from the system.
+            1.5 - Delivery Address means the address or port or airport notified
+            by the Customer to Trexco and which Trexco in its entire discretion
+            agrees is where the Boxes are to be delivered to or such substituted
+            address as Trexco shall in its entire discretion decide.
           </p>
-         
+          <p>
+            1.6 - Force Majeure Event means any event beyond the reasonable
+            control of Trexco including, without limitation, fire, flood, storm,
+            tempest, inclement weather, acts of God, war, civil war or national
+            emergency, protests, riot, civil commotion, acts of terrorism,
+            malicious damage, compliance with law or governmental order, rule or
+            regulation or direction, accident, fuel shortage, lock-out, strikes
+            and other industrial disputes whether or not relating to Trexco
+            workforce and restraints or delays affecting carriers.
+          </p>
+
           <p>
             You can choose to accept or decline cookies. Most web browsers
             automatically accept cookies, but you can usually modify your

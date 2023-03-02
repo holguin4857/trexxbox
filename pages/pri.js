@@ -15,7 +15,7 @@ export default function Privacy() {
       <section className="container">
         <div className="content">
           <h1>Privacy policy</h1>
-          <p></p>
+          
 
           <p>
             This privacy policy sets out how Trexco uses and protects any
@@ -53,8 +53,7 @@ export default function Privacy() {
           </ul>
           <p>What we do with the information we gather</p>
           <p>
-            We require this information to understand your needs and provide you
-            with a better service, and in particular for the following reasons:
+            We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
           </p>
           <ul>
             <li>
@@ -140,7 +139,6 @@ export default function Privacy() {
                 Whenever you are asked to fill in a form on the website, and if
                 you prefer for us not to use that information for direct
                 marketing purposes, please write email us at info@trexco.net
-                
               </p>
             </li>
           </ul>

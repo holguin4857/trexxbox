@@ -35,9 +35,9 @@ export default function Pri() {
           <h2>What we collect</h2>
           <p>We may collect the following information:</p>
           <ul>
-            <li>full name</li>
-            <li>contact information including email address</li>
-            <li>demographic information such as postcode and address</li>
+            <p>full name</p>
+            <p>contact information including email address</p>
+            <p>demographic information such as postcode and address</p>
           </ul>
           <p></p>
           <h2>What we do with the information we gather</h2>
@@ -46,17 +46,17 @@ export default function Pri() {
             We require this information to understand your needs and provide you
             with a better service, and in particular for the following reasons:
           </p>
-          <li>Internal record keeping</li>
-          <li>
+          <p>Internal record keeping</p>
+          <p>
             We may use the information to improve our products and services.
-          </li>
-          <li>
+          </p>
+          <p>
             We may periodically send promotional emails about new products
-          </li>
-          <li>
+          </p>
+          <p>
             From time to time, we may also use your information to contact you
             for market research purposes
-          </li>
+          </p>
           <p></p>
           <h2>Security</h2>
           <p></p>

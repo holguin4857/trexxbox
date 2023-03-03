@@ -17,10 +17,13 @@ export default function Home() {
 
       <div className="container">
         <div className="content">
-          <h1>Ship Worldwide with trexco - The Easy and Affordable Solution</h1>
+          <h1>Ship Worldwide with trexco</h1>
+          <h1>The Easy and Affordable Solution</h1>
           <p>
-            Based in the UK, we specialise in sea and air transport to the US, Canada, Mexico and South America. Let us handle your shipping needs and get
-            your cargo delivered hassle-free. Choose trexco for a flexible and cost-effective shipping experience.
+            Based in the UK, we specialise in sea and air transport to the US,
+            Canada, Mexico and South America. Let us handle your shipping needs
+            and get your cargo delivered hassle-free. Choose trexco for a
+            flexible and cost-effective shipping experience.
           </p>
           <button className="button">
             <Link href="https://trexco.involve.me/trexco-personalized-quote">
@@ -28,17 +31,12 @@ export default function Home() {
             </Link>
           </button>
         </div>
-        
       </div>
 
-      
-        
-      
-      <h1 className="container-3">simplify your shipping by using an easy, convenient way to pack,
-            store, and move your cargo</h1>
-            <div className="container-3-none">
-      <h1>How it works</h1>
-      </div>
+      <h1 className="container-3">
+        simplify your shipping by using an easy, convenient way to pack, store,
+        and move your cargo. see how it works:
+      </h1>
 
       <div className="column-3">
         <div className="column">
@@ -83,7 +81,7 @@ export default function Home() {
       </div>
 
       <div className="container">
-      <div className="image">
+        <div className="image">
           <Image
             src="/images/man-and-truck.png"
             alt="loading"
@@ -94,18 +92,19 @@ export default function Home() {
         <div className="content">
           <h1>The Trexx Box</h1>
           <p>
-            When it comes to shipping big and heavy objects, use our easy-to-assemble pallet boxes, These innovative boxes are designed to the specifications
-            of a standard shipping pallet 120 x 100 cm and come in two different heights 110 and 210 cm.
+            When it comes to shipping big and heavy objects, use our
+            easy-to-assemble pallet boxes, These innovative boxes are designed
+            to the specifications of a standard shipping pallet 120 x 100 cm and
+            come in two different heights 110 and 210 cm.
           </p>
           <p>
-            With a maximum weight capacity of 600 kg, our pallet boxes are the perfect solution for your shipping needs. And the best part? We can send
-            them to you for self-pack and send them to your country of destination either by sea or air, so you can get your goods where they need to go quickly
-            and efficiently.
+            With a maximum weight capacity of 600 kg, our pallet boxes are the
+            perfect solution for your shipping needs. And the best part? We can
+            send them to you for self-pack and send them to your country of
+            destination either by sea or air, so you can get your goods where
+            they need to go quickly and efficiently.
           </p>
-          
-          
         </div>
-        
       </div>
 
       <div className="container">
@@ -113,14 +112,16 @@ export default function Home() {
           <h1>Container shipping</h1>
           <p>Affordable and Flexible Container Shipping Options for you</p>
           <p>
-             At trexco , we understand that everyone is different, which is why we
-             offer efficient and reliable container shipping services that are tailored to meet your specific needs.
+            At trexco , we understand that everyone is different, which is why
+            we offer efficient and reliable container shipping services that are
+            tailored to meet your specific needs.
           </p>
           <p>
-            We have 17 years of experience as freight forwarders, and we are commited to providing you the highest level of service and support.
-            From start to finish, we will be there to ensure that your cargo arrives at its destination on time and in excellent condition.
+            We have 17 years of experience as freight forwarders, and we are
+            commited to providing you the highest level of service and support.
+            From start to finish, we will be there to ensure that your cargo
+            arrives at its destination on time and in excellent condition.
           </p>
-          
         </div>
         <div className="image">
           <Image
@@ -132,7 +133,7 @@ export default function Home() {
         </div>
       </div>
 
-      <section className="container">
+      <div className="container">
         <div className="content">
           <h1>shipping with confidence</h1>
           <p>
@@ -146,7 +147,7 @@ export default function Home() {
             </Link>
           </button>
         </div>
-      </section>
+      </div>
     </>
   );
 }

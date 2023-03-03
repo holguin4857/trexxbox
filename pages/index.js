@@ -18,10 +18,11 @@ export default function Home() {
       <div className="container">
         <div className="content">
           <h1>Ship Worldwide with trexco</h1>
-          <h1>The Easy and Affordable Solution</h1>
+         
           <p>
             Based in the UK, we specialise in sea and air transport to the US,
-            Canada, Mexico and South America. Let us handle your shipping needs
+            Canada, Mexico and South America. 
+            Let us handle your shipping needs
             and get your cargo delivered hassle-free. Choose trexco for a
             flexible and cost-effective shipping experience.
           </p>

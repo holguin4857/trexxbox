@@ -56,6 +56,7 @@ export default function How() {
 
       <section className="container">
         <div className="content">
+        <h2>How we make a difference</h2>
           <p>
             Trexco offers do-it-yourself shipping options, for those who might
             be looking for an easy, affordable, efficient, way to ship.

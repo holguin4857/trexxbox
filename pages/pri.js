@@ -50,9 +50,7 @@ export default function Pri() {
           <p>
             We may use the information to improve our products and services.
           </p>
-          <p>
-            We may periodically send promotional emails about new products
-          </p>
+          <p>We may periodically send promotional emails about new products</p>
           <p>
             From time to time, we may also use your information to contact you
             for market research purposes
@@ -68,7 +66,7 @@ export default function Pri() {
           </p>
           <h2>How we use cookies</h2>
           <p></p>
-          
+
           <p>
             We use traffic log cookies to identify which pages are being used.
             This helps us analyse data about web page traffic and improve our
@@ -76,7 +74,7 @@ export default function Pri() {
             information for statistical analysis purposes and then the data is
             removed from the system.
           </p>
-         
+
           <p>
             You can choose to accept or decline cookies. Most web browsers
             automatically accept cookies, but you can usually modify your
